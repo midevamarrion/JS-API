@@ -1,0 +1,26 @@
+#users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.people{
+    border: solid rgb(198,203,198);
+    border-radius: 5px;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.new-user{
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    margin: 2% 0;
+    border-radius: 5px;
+    background-color: rgb(71, 161, 11);
+    color: #FFFFFF;
+
+}
+.user-list{
+    text-align: center;
+}
